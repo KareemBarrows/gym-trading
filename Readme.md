@@ -1,5 +1,5 @@
 
-## [OpenAI Gym](https://gym.openai.com/) Environment for Trading
+!! [OpenAI Gym](https://gym.openai.com/) Environment for Trading
 
 ### Environment for reinforcement-learning algorithmic trading models
 
@@ -12,3 +12,4 @@ See
 for a jupyter notebook describing basic usage and illustrating a
 (sometimes) winning strategy based on policy gradients implemented on
 tensorflow.
+ 
